@@ -4,8 +4,7 @@ import com.generarafd.modelo.*;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
-import javax.swing.JOptionPane;
-
+import javax.swing.*;
 
 public class VentanaController {
     ReconocimientoDescendente reconocer;
@@ -67,4 +66,5 @@ public class VentanaController {
             vaciar();
         }
     }
+
 }

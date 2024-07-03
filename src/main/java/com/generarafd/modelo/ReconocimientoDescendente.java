@@ -1,5 +1,6 @@
 package com.generarafd.modelo;
 
+
 import javax.swing.JOptionPane;
 
 import java.util.Stack;
@@ -378,3 +379,4 @@ public class ReconocimientoDescendente {
         return correcto;
     }
 }
+
